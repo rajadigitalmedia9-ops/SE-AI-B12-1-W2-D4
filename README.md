@@ -5,7 +5,7 @@ A beginner-friendly RAG app built with Streamlit, LangChain, Ollama embeddings, 
 ## Requirements
 - Windows 10/11
 - Python 3.10+
-- Ollama installed and running
+ 
 - Optional OpenAI API key for generated answers
 
 ## Windows setup (PowerShell)
