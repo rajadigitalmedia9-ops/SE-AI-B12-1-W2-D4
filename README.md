@@ -13,7 +13,7 @@ A beginner-friendly RAG app built with Streamlit, LangChain, Ollama embeddings, 
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-ollama pull nomic-embed-text
+ 
 streamlit run app.py
 ```
 
